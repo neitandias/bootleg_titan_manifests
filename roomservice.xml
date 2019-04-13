@@ -4,7 +4,7 @@
         
   <!-- Device -->
   <project name="linusdan/device_motorola_titan" path="device/motorola/titan" remote="github" revision="pasta" />
-  <project name="MotoDevelopment/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" revision="lineage-16.0" />
+  <project name="linusdan/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="github" revision="pasta" />
 
   <!-- Kernel -->
   <project name="RenanQueiroz/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="lineage-16.0" />
