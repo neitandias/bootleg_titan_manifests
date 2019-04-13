@@ -12,7 +12,6 @@
   <!-- Vendor -->
   <project name="RenanQueiroz/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="lineage-16.0" />
 
-  <!-- Extras -->     
-  <project name="LineageOS/android_system_qcom" path="system/qcom" remote="github" revision="lineage-16.0" />
+  <!-- Extras -->
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
 </manifest>
